@@ -1,0 +1,10 @@
+[
+    {
+        "airline_name": "Adam Air",
+        "origin_airport": "Soekarno-Hatta",
+        "destination_airport": "Sultan Iskandarmuda",
+        "ticket_price": 200000,
+        "tax": 120000,
+        "total_price": 320000
+    }
+]
